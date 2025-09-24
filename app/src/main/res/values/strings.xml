@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackgroundApp</string>
+    <string name="accessibility_description">
+    Launches the app automatically when the home screen is shown after boot.
+</string>
+
+</resources>
